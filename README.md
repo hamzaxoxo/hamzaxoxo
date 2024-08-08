@@ -1,7 +1,7 @@
 # Hello, I'm [Muhammad Hamza Malik](https://github.com/hamzadevlpr) 👋
 
 
-![Black Technology LinkedIn Banner](https://github.com/hamzadevlpr/hamzaxoxo/assets/99534215/1eec26a1-a00e-45a9-8795-981ef4cd4569)
+![image](https://github.com/user-attachments/assets/62e50832-2722-4ca6-b86e-7ca58a45e7bc)
 
 
 Experienced Full-Stack Developer with over  years of crafting seamless web experiences. Proficient in frontend technologies like React, backend languages including Python & Java, and DBMS like MySQL & PostgreSQL. Known for optimizing web performance, driving a 20% increase in user engagement. Adept at leading teams, fostering innovation, and delivering top-tier solutions on time and within budget. Passionate about continuous learning and pushing boundaries in tech.
